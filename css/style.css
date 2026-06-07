@@ -477,3 +477,19 @@ footer{
 .page-header p{
     color:#cbd5e1;
 }
+.download-btn{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 25px;
+    background:#818cf8;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:600;
+    transition:0.3s;
+}
+
+.download-btn:hover{
+    background:#6366f1;
+    transform:translateY(-2px);
+}
